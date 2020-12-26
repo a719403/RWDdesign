@@ -11,14 +11,14 @@ html{
 @font-face{
 
     font-family: 'tan';
-    src: url("Tangerine-Bold.ttf") format("truetype");
+    src: url("font/Tangerine-Bold.ttf") format("truetype");
 
 }
 
 @font-face{
 
     font-family: 'an';
-    src: url("Andada-Regular.otf") format("truetype");
+    src: url("font/Andada-Regular.otf") format("truetype");
 
 }
 
